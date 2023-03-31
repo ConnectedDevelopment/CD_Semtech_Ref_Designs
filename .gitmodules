@@ -1,0 +1,3 @@
+[submodule "CD_LoRaBasicsModem_Demo"]
+	path = CD_LoRaBasicsModem_Demo
+	url = https://github.com/ConnectedDevelopment/CD_LoRaBasicsModem_Demo.git
